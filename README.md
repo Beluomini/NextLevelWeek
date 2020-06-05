@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fx0n4d0%2Fecoleta&psig=AOvVaw0fGvPAbrD6PF8YXRzsrxp_&ust=1591467951871000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjEqr_O6-kCFQAAAAAdAAAAABAD" />
+<img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png">
 
 Disponibilizado pela Rocketseat, a Next Level Week foi uma semana de aprendizado com conhecimentos de:
 Node, React e React Native foram aplicados.
